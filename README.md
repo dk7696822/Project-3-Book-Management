@@ -1,14 +1,11 @@
 # Project-3-Book-Management
 
-# Lithium
+run npm install<br/>
+npm start<br/>
+go to http://localhost:3000<br/>
+
 
 ## Project - Books Management
-
-### Key points
-
-- Create a group database `groupXDatabase`. You can clean the db you previously used and resue that.
-- This time each group should have a _single git branch_. Coordinate amongst yourselves by ensuring every next person pulls the code last pushed by a team mate. You branch will be checked as part of the demo. Branch name should follow the naming convention `project/booksManagementGroupX`
-- Follow the naming conventions exactly as instructed.
 
 ### Models
 
